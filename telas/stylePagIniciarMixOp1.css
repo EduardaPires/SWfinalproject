@@ -85,9 +85,9 @@ header{
 }
 
 .esquerda {
-    margin-top: -297px;
+    
     width: 700px;
-    padding-top: 68px;
+    float:left;
     height: 120px;
 }
 
